@@ -2,10 +2,10 @@
 This is a boilerplate for developing JavaScript library.
 
 ## Tools
-module bundler: __rollup__  
-transpiler: __babel__  
-testing tool: __jest__  
-linter: __eslint__
+module bundler: __Rollup__  
+transpiler: __Babel__  
+testing tool: __Jest__  
+linter: __ESLint__
 
 ## Commands
 ```
